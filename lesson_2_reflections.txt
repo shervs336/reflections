@@ -1,0 +1,2 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: A new .git folder is created. You need it so that you can start committing your files.

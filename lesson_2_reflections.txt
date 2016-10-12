@@ -1,2 +1,20 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 A: A new .git folder is created. You need it so that you can start committing your files.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: The working directory is the current directory you are working on and repository stores history of your commits. It
+	gives you the freedom of working on files while storing versions of it.
+	
+Q: How can you use the staging area to make sure you have one commit per logical change?
+A: You can temporary use git add to make sure you are staging a logical change before commiting your changes.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A: When creating experimental features a totally different version of the app. It can help by making sure that the fully functional
+	program will not be affected by any changes on the app.
+	
+Q: How do the diagrams help you visualize the branch structure?
+A: It helps a lot and I would do it for purposes of tracking my versions.
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A: The result was as expected, The asteroids now has colors and coins available. We represent the diagram to visually see the
+	 version flow of the app.

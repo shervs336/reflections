@@ -18,3 +18,6 @@ A: It helps a lot and I would do it for purposes of tracking my versions.
 Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A: The result was as expected, The asteroids now has colors and coins available. We represent the diagram to visually see the
 	 version flow of the app.
+	 
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A:	You can easily detect conflicts in codes.

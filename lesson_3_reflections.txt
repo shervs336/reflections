@@ -1,0 +1,3 @@
+Q: Would you want to create a remote repository rather than keeping all your work local?
+A: I would rather create a remote repository, to have a backup of my work. At the same time, it
+   really helps me share my work with my co-workers.

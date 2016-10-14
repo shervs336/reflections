@@ -1,3 +1,10 @@
 Q: Would you want to create a remote repository rather than keeping all your work local?
 A: I would rather create a remote repository, to have a backup of my work. At the same time, it
-   really helps me share my work with my co-workers.
+    really helps me share my work with my co-workers.
+   
+Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+A:	To avoid conflicts with others files if there are changes or different files.
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A: Forks are for cloning repository to another one. Clones are cloning repository on local PC or local PC to PC.
+	Branches replicates master branch and creating seperate version of the code.

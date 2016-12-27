@@ -1,0 +1,2 @@
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: The most usual common way is to have a local copy the program but there will be conflicts in the future for sure specially if there are same file being edited.

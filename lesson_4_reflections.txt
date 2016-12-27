@@ -1,2 +1,5 @@
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: The most usual common way is to have a local copy the program but there will be conflicts in the future for sure specially if there are same file being edited.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: When I create a totally different feature of the program or to experiment on new features to seperate the stable version to testing area.
